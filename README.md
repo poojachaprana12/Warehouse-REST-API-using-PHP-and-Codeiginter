@@ -1,4 +1,3 @@
-# Warehouse-REST-API-using-PHP-and-Codeiginter
 # WAREHOUSE REST API USING PHP version 7.4 AND FRAMEWORK CODEGINITER 3.1
 
 
